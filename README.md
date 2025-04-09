@@ -1,5 +1,5 @@
-# Seminário em Linguagens de Programação PUC minas 2025/1 - Haskell
-Este Repositório é destinado aos arquivos e materiais do trabalho de Seminários sobre a linguagem haskell, da matéria de Linguagens de Programação da PUC minas - Coração Eucarístico, proposto e orientado pelo professor Marco Rodrigo Costa.
+# Resumo de Artigo em Linguagens de Programação PUC minas 2025/1 - Haskell
+Este Repositório é destinado aos arquivos e materiais do trabalho de Resumo de Artigo sobre a linguagem haskell, da matéria de Linguagens de Programação da PUC minas - Coração Eucarístico, proposto e orientado pelo professor Marco Rodrigo Costa.
 
 
 ### Integrantes do grupo:
@@ -15,23 +15,14 @@ Este Repositório é destinado aos arquivos e materiais do trabalho de Seminári
  - Mariana Almeida Mendonça    <br>                    [<img src = "https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/marialmeida1)
 
 
-### Estrutura do Seminário e Repositório
+### Estrutura do Repositório
 
 Este repositório contém três pastas principais:
 
-- `presentation`: Coletânea completa das informações do trabalho.
-- `study_case`: Estudo de caso detalhado, com o objetivo de entender melhor o uso da linguagem requerida.
-- `support_material`: Todo o material de apoio utilizado na elaboração do projeto.
+- [`research_articles`](./research_articles/): Coletânea da base teórica das informações do trabalho.
+- [`theoretical_foundation`](./theoretical_foundation/): Estudo de caso detalhado, com o objetivo de entender melhor o artigo.
+- [`appendix`](./appendix/): Opnião dos alunos sobre o artigo e projeto.
+- [presentation](./presentation/): Arquivos relacionados a apresentação.
 
-O seminário abordará os seguintes pontos:
-
-- [Introdução](./support_material/01-introduction/)
-- [Histórico da Linguagem](./support_material/02-language_history/)
-- [Paradigmas](./support_material/03-paradigms/)
-- [Linguagens Correlatas](./support_material/04-related_languages/)
-- [Estudo de Caso](./support_material/05-study_case/)
-- [Considerações Finais](./support_material/06-final_considerations/)
-- [Bibliografia](./support_material/07-bibliography/)
-- [Apêndice](./support_material/08-appendix/)
 
 
